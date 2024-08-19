@@ -1,0 +1,47 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "name": "John Doe",
+        "email": "john@example.com"
+      },
+      {
+        "id": "2",
+        "name": "Jane Smith",
+        "email": "jane@example.com"
+      },
+      {
+        "id": "dcca",
+        "Correo": "adriana@gmail.com",
+        "Nombre": "adriana",
+        "Contrasena": "adriana"
+      },
+      {
+        "id": "775d",
+        "Correo": "mm"
+      },
+      {
+        "id": "39eb",
+        "Correo": " jake@gmail.com",
+        "Nombre": "jake",
+        "Contrasena": "jake"
+      },
+      {
+        "id": "3797",
+        "Correo": "jake@gmail.com",
+        "Nombre": "jake",
+        "Contrasena": "jake"
+      },
+      {
+        "id": "343a",
+        "Correo": "pochi@gmail.com",
+        "Nombre": "pochi",
+        "Contrasena": "pochi"
+      },
+      {
+        "id": "904d",
+        "Correo": "denji@gmail.com",
+        "Nombre": "denji",
+        "Contrasena": "denji"
+      }
+    ]}
