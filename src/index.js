@@ -28,7 +28,6 @@ obtenerUsurios = async () => { //todos los asyn necesitan un await, un try y cat
      }
   }
 
-
   console.log(obtenerUsurios)
 
   export{obtenerUsurios}
